@@ -1,0 +1,7 @@
+1. For both of the problems, the instruction should be of the format: ./a.out <PATH-TO-INPUTFILE> <PATH-TO-OUTPUTFILE>
+
+2. The output for the first problem shall be created in a directory 'Assignment' in your pwd, with the output file name as specified above
+
+3. The permissions for the 'Assignment' directory and the output file shall be '600' (rw for the user)
+
+4. For the second problem, the name of the symlink created shall be the 'symlink' and it shall be created in the pwd only
